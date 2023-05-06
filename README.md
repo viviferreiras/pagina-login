@@ -1,2 +1,2 @@
 # pagina-login
-Pagina de login em HTML e CSS.
+Página de login em HTML e CSS.
